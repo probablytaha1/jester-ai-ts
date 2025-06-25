@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn
+python-dotenv
+google-api-python-client
+google-auth
+python-pptx
+python-docx
+pymupdf==1.22.0
+chromadb
+sentence-transformers
+aiofiles
+Pillow
